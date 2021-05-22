@@ -1,0 +1,19 @@
+.body{background-image: url(image.jpg);
+}
+.h1{color: white; padding-top: 50px; padding-bottom: 50px;
+}
+btn btn-light{padding-top: 15PX; padding-bottom: 15px; padding-left: 15px;
+padding-right: 15px;
+}
+.lista{color: white;
+padding-bottom: 40px;
+font-size: 25px;
+list-style: none;
+
+}
+.form-label{color: white; font-size: 20px;
+}
+.formulario{margin-top: 45px;
+margin-bottom: 35px;}
+.img{width:200%;
+margin-top: 45px;}
